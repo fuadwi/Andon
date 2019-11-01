@@ -1,0 +1,15 @@
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\OpcComRcw.dll
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+D:\WORK\DEV\AdvancedHMIv399x\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
